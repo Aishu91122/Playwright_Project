@@ -2,5 +2,6 @@
 /* ("Playwright Project Started"); */
 console.log("Java Script")
 console.log("Chromium Browser Launched");
-console.log("Mani")
+console.log("Mani");
+console.log("Data Updated");
 console.log("Browser closed")
