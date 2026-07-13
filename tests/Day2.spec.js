@@ -1,2 +1,3 @@
 console.log("Playwright Project Started");
-console.log("Browser Launched");
+console.log("Chromium Browser Launched");
+console.log("Browser closed")
